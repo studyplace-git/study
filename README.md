@@ -8,3 +8,9 @@ Git練習用リポジトリ
 - git add ファイル名
 - git commit -m "メッセージ"
 - git push
+
+## Gitのブランチ作成
+
+- git branch ブランチ名
+- git checkout ブランチ名
+- git branch（ブランチの確認）
